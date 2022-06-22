@@ -3,7 +3,7 @@ title:  "TransFusion"
 excerpt: " "
 
 categories:
-  - Blog
+  - Autonomous Driving
 tags:
   - [Blog, jekyll, Github, Git]
 
