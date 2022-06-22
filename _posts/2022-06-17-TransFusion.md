@@ -5,7 +5,7 @@ excerpt: " "
 categories:
   - Autonomous Driving
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [LiDAR-Camera, 3D Object Detection]
 
 toc: true
 toc_sticky: true
